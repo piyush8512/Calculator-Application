@@ -1,4 +1,4 @@
-![Screenshot 2024-06-22 154015](https://github.com/piyush8512/Calculator-Application/assets/122198008/148c97f5-ed03-4f0f-a67e-6af6cadd9496)# Calculator-Application
+# Calculator-Application -CodingSamurai-Task_2
 simple command-line calculator application in Java that can perform basic arithmetic operations, such as addition, subtraction, multiplication, and division.
 
 User Interface: basic command-line interface that that take a simple mathametical expression and evalute that.
